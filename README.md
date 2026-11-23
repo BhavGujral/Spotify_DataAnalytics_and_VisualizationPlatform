@@ -2,7 +2,7 @@
 
 An end-to-end **SQL Data Analytics & Interactive Visualization Platform** analyzing **10,000 streaming events** across **1,793 active users** and **8 global markets** (`Nov 2025 – Oct 2026`). Built to surface retention-adjacent behavior, algorithmic discovery quality, and Free-to-Premium monetization opportunities for product leadership.
 
-- **Live Interactive Dashboard:** `[[Paste your GitHub Pages URL here after Step 3]](https://spotifydataanalyticsandvisualizatio.vercel.app/)`
+- **Live Interactive Dashboard:** `(https://spotifydataanalyticsandvisualizatio.vercel.app/)`
 - **Tech Stack:** PostgreSQL (CTEs, Window Functions, Cohort SQL), Interactive Web BI Dashboard (HTML/CSS/JS SVG), Tableau / Looker Studio Ready CSVs
 
 ---
