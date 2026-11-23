@@ -1,0 +1,20 @@
+-- ============================================================================
+-- 15 Product Management & Business Analytics Problems (Spotify Dataset)
+-- File: 02_business_problems.sql
+-- ============================================================================
+
+-- Q1.  Compare total streams, listening hours, completion rate, and skip rate for Music vs. Podcasts.
+-- Q2.  Quantify the engagement gap (completion rate & skip rate) between Free and Premium users.
+-- Q3.  Calculate month-over-month (MoM) streaming volume growth using window functions (LAG).
+-- Q4.  Rank the Top 5 discovery surfaces by completion rate and lowest skip rate.
+-- Q5.  Identify the top-performing genre within each country using RANK() OVER (PARTITION BY country).
+-- Q6.  Compute country-level Premium conversion mix and average streams per active user.
+-- Q7.  Measure retention-adjacent repeat engagement: % of users active in 3+ distinct months.
+-- Q8.  Evaluate cohort retention by signup_month across subsequent active listening months.
+-- Q9.  Analyze Home Feed vs. Discover Weekly skip rates segmented by Free vs. Premium tier.
+-- Q10. Identify the Top 10 artists/shows by total listening hours and average completion rate.
+-- Q11. Measure how release_year recency (New Releases 2025-2026 vs. Back Catalog) impacts skip rate.
+-- Q12. Compare device-level engagement (Mobile, Desktop, Smart Speaker, CarPlay) for Podcasts vs. Music.
+-- Q13. Segment users into Power, Core, and Casual listeners using NTILE(3) / CASE tiers.
+-- Q14. Evaluate explicit vs. non-explicit music engagement across age groups.
+-- Q15. Calculate 3-month rolling average streams and skip rate to surface seasonal inflection points.
